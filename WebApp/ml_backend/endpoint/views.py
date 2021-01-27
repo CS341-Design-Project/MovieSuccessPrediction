@@ -42,6 +42,8 @@ def result(request) :
     actor4 = Actor.objects.get(name=request.GET['actor4']).rating
     actor = (actor1+actor2+actor3+actor4)/4;
 
+    
+    #Song objects are changes
     song = Song.objects.get(name=request.GET['song']).rating
 
     model = tf.keras.models.load_model('C:/Users/ROWAN K BABY/Desktop/Movie Success Prediction/model')
