@@ -33,7 +33,9 @@ def result(request) :
     hero2 = Hero.objects.get(name=request.GET['hero2']).rating
     hero3 = Hero.objects.get(name=request.GET['hero3']).rating
     hero = (hero1+hero2+hero3)/3;
+
     
+    #Adding Actors
     actor1 = Actor.objects.get(name=request.GET['actor1']).rating
     actor2 = Actor.objects.get(name=request.GET['actor2']).rating
     actor3 = Actor.objects.get(name=request.GET['actor3']).rating
