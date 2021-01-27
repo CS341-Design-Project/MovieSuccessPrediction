@@ -12,7 +12,7 @@ class Director(models.Model):
 
     def __str__(self):
         return '{} {} {} {}'.format(self.id,self.code,self.name,self.rating)
-
+#Adding Producer
 class Producer(models.Model):
     code = models.IntegerField()
     name = models.CharField(max_length=100)
@@ -45,12 +45,13 @@ class Hero(models.Model):
 
     def __str__(self):
         return '{} {} {} {}'.format(self.id,self.code,self.name,self.rating)
-
+#Adding Acotr
 class Actor(models.Model):
     code = models.IntegerField()
     name = models.CharField(max_length=100)
     rating = models.FloatField()
 
+    
     class Meta:
         ordering = ['code']
 
