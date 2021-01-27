@@ -1,0 +1,1103 @@
+id,code,name,rating
+1,4,Gireesh Puthenchery,90.66
+2,34,Sreekumaran Thampi,32.8
+3,42,Mankombu Gopalakrishnan,57.67
+4,94,Nedumudi Venu,40.21
+5,97,Vineeth Sreenivasan,76.03
+6,98,Venu Nagavally,39.2
+7,126,Ajith Nair,52.5
+8,142,Ali Akbar,45.92
+9,256,Balachandra Menon,38.29
+10,266,Balram Mattannur,36.52
+11,278,Benny P Thomas,33.3
+12,384,Devadas,64.8
+13,412,Dr SP Ramesh,74.26
+14,417,East Coast Vijayan,36
+15,483,GR Indugopan,70.2
+16,500,Hariharan,89
+17,503,Hashna Hash,62.7
+18,509,Ilanthoor Vijayakumar,68.4
+19,550,Jayaprakash,31.68
+20,551,Jayaraj,63.45
+21,636,Kalabhavan Mani,73.04
+22,655,Kamalahasan,74.1
+23,699,Kiran Varma,78.3
+24,755,Kurippuzha Sreekumar,60.06
+25,801,Madhu Muttom,48.2
+26,816,Malayattoor Ramakrishnan,53.82
+27,852,Mathew Paul,91.18
+28,857,MD Rajendran,15
+29,882,Mohan Sharma,62.25
+30,900,MT Vasudevan Nair,68.46
+31,926,Nadirsha,28.71
+32,951,Nikhil K Menon,17.16
+33,988,BR Jacob,24.96
+34,993,P Prakash,37.65
+35,1081,Pramod Shornur,36.48
+36,1101,Priyadarshan,76.91
+37,1123,R Venugopal,65.6
+38,1131,Rafeeq Ahamed,87.4
+39,1132,Rafi Mathira,27.75
+40,1151,Rajasenan,54.99
+41,1187,Ramesh Maniyath,58.4
+42,1200,Ranjith,72.77
+43,1208,Ratheesh Vegha,68.8
+44,1224,Renji Panicker,79.3
+45,1241,Robin Thirumala,53.1
+46,1322,Ranjeet Kamala Shankar,75.44
+47,1332,Sathish Ananthapuri,31.2
+48,1334,Sathyan Anthikkad,79.98
+49,1378,Shashi Paravoor,69.25
+50,1385,Shibu Kallar,43.2
+51,1396,Shyamaprasad,72.19
+52,1434,Sohan Lal,40.56
+53,1438,Sonu Sisupal,40.5
+54,1463,Sreenivasan,78.29
+55,1470,Subash Chandran,35.69
+56,1481,Sudhamsu,56.03
+57,1501,Sunil Viswachaithanya,47.88
+58,1534,TA Razzaq,57.16
+59,1535,TA Shahid,82.29
+60,1576,TP Rajeevan,48.8
+61,1634,Arun Vaidyanathan,61.6
+62,1646,Vasan,48.75
+63,1649,R Pandyarajan,88.36
+64,1661,Venu,75.48
+65,1675,Vijayakrishnan,37.84
+66,1684,Viju Ramachandran,42.38
+67,1690,Vinayan,70.86
+68,1694,Vinod Mankara,55.04
+69,1695,Vinu Kiriyath,33.87
+70,1738,A Sajeer,72.24
+71,1740,A Sheriff,54.78
+72,1743,Jayan Vannery,57.62
+73,1749,AK Jayan Poduval,53.12
+74,1752,AK Sajan,66.05
+75,1756,AP Nagarajan,78
+76,1765,Aashiq Abu,62.79
+77,1768,Aditya Sam Abraham,48.75
+78,1769,Adoor Gopalakrishnan,64.92
+79,1771,Baburaj,61.47
+80,1773,Aji John,58.5
+81,1779,Akku Akbar,64
+82,1780,Albert,91
+83,1781,Albert Antony,45
+84,1785,Amal Neerad,76.62
+85,1786,Ambadi Krishnan,52.8
+86,1787,Ambili,71.25
+87,1789,Amma Rajasekhar,47.6
+88,1797,Anil Das,24
+89,1803,Anish J Karinad,47.7
+90,1806,Anjali Menon,78.4
+91,1807,Antony Eastman,60.68
+92,1817,Ashok R Nath,27.2
+93,1821,Avira Rebecca,67.45
+94,1824,Majeed Abu,66.12
+95,1826,B Unnikrishnan,72.25
+96,1831,Babu Janardanan,61.93
+97,1836,Babu Thiruvalla,40.1
+98,1844,Basheer,7.5
+99,1848,Bhadran,86.24
+100,1860,Biju C Kannan,41
+101,1862,Biju Varkey,61.22
+102,1865,Blessy,78.6
+103,1868,Boyapati Sreenu,71.9
+104,1881,Captain Raju,48.97
+105,1884,Chandrahasan,32.8
+106,1895,Das,66.74
+107,1901,Deepu Karunakaran,74.32
+108,1902,Dennis Joseph,57.56
+109,1909,Dinesh Babu,65.25
+110,1913,Dr. Biju,63.29
+111,1917,Dr S Janardanan,76.76
+112,1926,Fazil,64.7
+113,1927,Fazil-Jayakrishna,65.6
+114,1950,Gireesh Nair,50.74
+115,1958,Govindankutty Adoor,24
+116,1960,Hakkim Rawther,92.15
+117,1962,Siva Krishnamoorthy,40.5
+118,1964,Harikumar,75.68
+119,1981,J Karunakumar,64
+120,1985,JD Chakravarthy,73.87
+121,1999,Jayakumar Nair,18.8
+122,2002,Jayaraj Vijay,41
+123,2007,Jeethu Joseph,71.64
+124,2009,John Ditto,8.1
+125,2012,Johnson Esthappan,60.28
+126,2016,Jomon,75.05
+127,2020,Jose Thomas,77.4
+128,2026,Joshy Mathew,34.4
+129,2032,K Biju,63
+130,2059,KB Madhu,41.36
+131,2064,KG Vijayakumar,35.64
+132,2067,KJ Bose,49
+133,2070,Simon Kuruvila,31.82
+134,2073,KP Kumaran,59.63
+135,2077,KP Sunil,21
+136,2094,Kabeer Rawuthar,8.25
+137,2100,Kalavoor Ravikumar,63.25
+138,2102,Kamal,77.26
+139,2108,Karunakaran,60
+140,2112,Kiran,23.25
+141,2122,Kukku Surendran,30
+142,2125,Kumar Nanda,25.33
+143,2126,Rajiv Menon,60.2
+144,2128,Lal,54.31
+145,2132,Lenin Rajendran,48.6
+146,2134,Lijo Jose Pellissery,71.53
+147,2135,Leo Thaddeus,61.53
+148,2136,Lohithadas,85.18
+149,2142,M Mohanan,58.89
+150,2143,M Padmakumar,93
+151,2146,MA Nishad,46.27
+152,2148,MA Venu,57.64
+153,2152,MD Sukumaran,63.89
+154,2153,MG Sasi,58.14
+155,2167,MS Gupta,52
+156,2171,Madhav Ramadasan,69.97
+157,2175,Mahesh,59.9
+158,2180,Majid Gulisthan,37.5
+159,2181,Major Ravi,74.94
+160,2184,Mamas,51.96
+161,2188,Mani Ratnam,72.94
+162,2192,Martin Prakkat,65.29
+163,2200,Mohan Raghavan,63
+164,2203,Mohan Thomas,22.5
+165,2211,Murali Nagavally,72.2
+166,2212,Murali Nair,63.73
+167,2214,Myshkin,43.2
+168,2230,Nandakumar Kavil,65.36
+169,2233,Nasser,57.34
+170,2240,Nithin Ramakrishnan,53.4
+171,2245,P Anil,70.5
+172,2258,P Padmarajan,73.96
+173,2285,PK Radhakrishnan,40.42
+174,2298,PT Kunju Muhammad,72.19
+175,2306,Parasuraam Bujji,48.75
+176,2315,Prabhakaran Muthana,9
+177,2322,Pramod Pappan,39.2
+178,2325,Prasanth Mambulli,37.45
+179,2334,Priyanandanan,67.86
+180,2336,Puri Jagannath,41.5
+181,2343,R Sharath,51.47
+182,2344,R Sukumaran,69
+183,2346,RJ Prasad,49.64
+184,2354,Radha Mohan,90.25
+185,2357,Rafi,75.93
+186,2367,Raj Nair,42.75
+187,2376,Rajeev Anchal,72.29
+188,2377,Rajeevnath,57.99
+189,2380,Rajesh Amanakara,14.82
+190,2381,Rajesh Balachandran,37.5
+191,2382,Rajesh Kannamkkara,45.31
+192,2396,Ramakanth Sarju,58.4
+193,2397,Praneesh Vijayan,61.44
+194,2400,Ramesh Varma,72.8
+195,2402,Ranjan Pramod,79.13
+196,2405,Ranjith Shankar,74.39
+197,2416,Reji Mathew,39
+198,2425,Rosshan Andrrews,78.88
+199,2426,Roy,16
+200,2429,Rupesh Paul,28.05
+201,2447,SL Puram Jayasurya,60.95
+202,2449,SP Mahesh,53.82
+203,2463,Sajeevan,79.33
+204,2467,Salim Ahamed,73.45
+205,2468,Salim Baba,17.6
+206,2473,Sameer Thahir,69.75
+207,2476,Sangeeth Sivan,65.57
+208,2477,Sanil Kalathil,61.92
+209,2481,Sanjeev Sivan,86.4
+210,2485,Santhosh Sivan,68.73
+211,2488,Sarathchandran Wayanad,73.18
+212,2495,Sasi Sankar,88.36
+213,2498,Satheesh Pothuval,72
+214,2499,Satheesh Venganoor,32.64
+215,2501,Sathish Menon,58.5
+216,2509,Shafi,69.75
+217,2510,Shaiju Anthikkad,65.81
+218,2513,Shaji Azeez,28.5
+219,2514,Shaji Kailas,68.06
+220,2515,Shaji N Karun,55.2
+221,2516,Shaji Rajasekhar,57.75
+222,2520,Shanker,40
+223,2523,Shebi Chavakkaad,61.24
+224,2532,Shyju-Shaji,69.42
+225,2536,Sidhique Shameer,36
+226,2541,Sivakumar,32
+227,2545,Sohan Seenulal,55.08
+228,2577,Sunil Kumar Desai,77.4
+229,2578,Sunil Madhav,8
+230,2585,Suresh Menon,26.52
+231,2586,Suresh Narayanan,48.72
+232,2592,Swabri,45
+233,2593,Swathi Bhaskar,39.01
+234,2601,TK Rajeev Kumar,68
+235,2608,TS Saji,36.1
+236,2609,TS Suresh Babu,33
+237,2611,TV Chandran,59.64
+238,2614,Thaha,56
+239,2623,Thoppil Bhasi,57.27
+240,2626,Trivikram Srinivas,64.83
+241,2632,Uday Anandan,64.35
+242,2636,Ummer Karikkad,32.8
+243,2638,V Krishnakumar,48
+244,2641,V Murali,70.3
+245,2651,VM Vinu,62.32
+246,2654,VR Gopalakrishnan,85.54
+247,2657,VS Jayakrishna,30.75
+248,2665,Vaisakh,67.86
+249,2679,Vijay Menon,46.44
+250,2687,Viji Thampy,48
+251,2693,Vinu Anand,46.48
+252,2695,Vinu Joseph,42.63
+253,2698,Vipin Vijay,46.5
+254,2702,Viswanathan,48.7
+255,2727,Mahesh Sharma,23.4
+256,2744,John Paul,42.8
+257,2745,Dinesh Pallath,52.93
+258,2748,Kaloor Dennis,57.17
+259,2749, Riaz M T,38.4
+260,2759,Ambili Chandramohan,78
+261,2772,VP Hemanth Kumar,40
+262,2782,KB Raju,55.16
+263,2785,Rejishh Midhila,49.44
+264,2786,Sajin Babu,56.63
+265,2787,Viswan,67.24
+266,2800,Shibu Chellamangalam ,64
+267,2803,Shanil Mohammad,67.19
+268,2804,Pravin Kumar,48
+269,2811,S Vinod Kumar ,27.2
+270,2814,MD Thamizharashan,36.08
+271,2824,Vikram S Nair,49.8
+272,2831,Bibin George,73.81
+273,2841,Sebastine Maliyekkal,31.59
+274,2849,ManuSankar,16.2
+275,2864,Anoop Ramesh,42.9
+276,2866,Jeyen Raj,64.8
+277,2869,Shabari Shankar,68
+278,2873,Jayan K Cheriyan,45.24
+279,2881,Mammen K Rajan,63.18
+280,2883,Rajesh Touchriver,40.56
+281,2888,Pradeep Sivasankar,46.17
+282,2893,Rojin Thomas,71.34
+283,2901,Bency Bijoy,69.6
+284,2902,Radhakrishnan Pallath,51.84
+285,2916,Saraswathy,51.84
+286,2965,Baiju Ezhupunna,40.56
+287,2966,Vamanapuram Mani,9.13
+288,2970,Balu Irinjalakuda,49
+289,2988,Vivek Ranjith,68.88
+290,2989,Suresh Unni,18.8
+291,3022,Martin C Joseph,46.17
+292,3024,Joe Eshwar,53.82
+293,3046,Anwar Huzain,64.6
+294,3049,Roy Thaikkadan,17.2
+295,3055,Linta Jeethu,39.56
+296,3056,Jude Antony Joseph,74.85
+297,3061,Midhun Manuel Thomas,72
+298,3070,Santhosh Gopal,8
+299,3087,Chandrasekhar Yeleti,68.85
+300,3093,John Manthrickal,73.53
+301,3110,Thomas Martin Durd,71.28
+302,3118,Visakh G S,57.6
+303,3130,Fr Michael Panachikal,16
+304,3131,Nikhil Menon,46.44
+305,3142,MS Pradeep Kumar,30
+306,3145,R Nandakumar,30
+307,3163,George Mathew,15
+308,3167,Udaykrishna,74.9
+309,3176,Arun Govindankutty,31.2
+310,3184,Jayaprakash Radhakrishnan,70.47
+311,3189,Jessen Joseph,43.97
+312,3201,SL Puram Jayasoma,54.17
+313,3202,Harikumaran Thampi,26.7
+314,3223,J Ligy Pullappally,86.4
+315,3224,Abhinu Yadhu Sudhanya,60.06
+316,3234,Arun Gopinath,68.8
+317,3235,Jijo Antony,57.63
+318,3236,Vinod Sreekumar,45.6
+319,3237,Vinil Vasu,27.2
+320,3254,Jeeva,68.4
+321,3256,Tom Emmatty,68.8
+322,3265,John Paul George,77.76
+323,3267,Hari Madayi,17.01
+324,3280,BN Shajeer Sha,48.6
+325,3311,Abhiman SA,45.36
+326,3313,Suniraj Kasyap,45.36
+327,3319,Govind Vijayan,71.28
+328,3329,Nandini Valsan,41.31
+329,3336,Arun Omana Sadanandan,51.84
+330,3340,Sudev Maruthadi,17.16
+331,3349,Nithin Renji Panicker,59.13
+332,3351,PN Gopikrishnan,51.38
+333,3354,Arouz Irfan,37.26
+334,3356,Sreejith Sukumaran,28
+335,3358,Sumesh V Robin,28
+336,3367,Abhilash Sreedharan,72.09
+337,3375,Evoor Vasudevan Nair ,17.16
+338,3379,Kottayam Nazeer,35.1
+339,3380,Sinto Sunny,56.7
+340,3388,Rajesh Gopinathan,73.71
+341,3392,Arjun Prabhakaran ,66.42
+342,3413,Sanoob Anil,30.78
+343,3450,Ajeesh Thomas,62.7
+344,3456,MR Nair Bombay,63.2
+345,3468,Vishnu Govind,45.58
+346,3474,Maheshraj,45.12
+347,3478,Sukesh Roy,17.2
+348,3494,Jeo Baby,83.52
+349,3495,Mathew George,34.8
+350,3537,Viju John Edayathara,31.59
+351,3538,Premkumar CV,41.31
+352,3540,Rajashree Balaram,68.88
+353,3545,"Visakh, Vivek, Vinod",68.04
+354,3549,Pradeep Raj,16.4
+355,3552,NB Vindhyan,83.66
+356,3558,Arun PR,56.17
+357,3569,Naseem Vellila,70.31
+358,3577,Ajith Pillai,73.6
+359,3596,Eldho Jacob,31.59
+360,3604,Khalid Rahman,78.26
+361,3611,Abhilash S Nair,77.9
+362,3617,Socraties K Valath ,47.42
+363,3640,Sanalkumar Sasidharan,58.19
+364,3659,Joseph Vijeesh,61.92
+365,3662,Abi Varghese,63.18
+366,3676,Koratala Siva,69.66
+367,3687,Suresh Achoos,33.54
+368,3700,N R Suresh Babu,24.6
+369,3703,Jayakrishna,47.56
+370,3709, Bhagyanthan C G,32
+371,3720,Ummer Muhammed,83.52
+372,3726,Anil Narayanan,57.87
+373,3738,Sreejith N,59.2
+374,3765,Vinod and Vinod,58.78
+375,3770,Vipin Das,72.9
+376,3771,U Prasannakumar,62.36
+377,3773,Perarsu,50.46
+378,3781, Fazil Basheer,51.66
+379,3797,Benny Esthaac ,27.88
+380,3800,Sreejith Vijayan,72.21
+381,3803,Raju Champakkara,52.8
+382,3826,PV Shaji Kumar,67.07
+383,3857,Vasanthabalan ,64
+384,3919,Anil Radhakrishnan Menon,65.27
+385,3922,Raju Micheal,20
+386,3938,Siju Raghav,52.8
+387,3953,Fazal ,33.13
+388,3959,Basil Joseph ,78.72
+389,3968,Deepu Pradeep ,78.72
+390,3994,Sreebala K Menon,65.6
+391,4003,Sudevan,56.58
+392,4017,Adv. Sangeeth Louis,27.88
+393,4027,Vipin Atley,66.05
+394,4048,Raaj Prabhavathy Menon,59.28
+395,4050,Saif Ali,23.78
+396,4051,NK Muhammed Koya,57.4
+397,4058,Anu Ram,32.19
+398,4064,Revathy S Varma,53.04
+399,4066,Balaji Mohan,75.2
+400,4082,RS Vimal,77.9
+401,4088,A R C Nair,16.4
+402,4090,Jexson Antony,75.44
+403,4094,Sijoy Varghese,67.86
+404,4101,Muneer Ali,80.84
+405,4102,Gopan Chidambaram,76
+406,4105,Lohith Madhav,33.21
+407,4112,Hashir Mohamed,74.88
+408,4120,Deepu Karulaay,66.5
+409,4121,VA Jahangeer,36.48
+410,4122,Binu S,71.34
+411,4127,Raju Chennad,45.92
+412,4134,Karumadi Rajendran,52
+413,4137,Mahesh Keshav,45.92
+414,4145,Kiran Narayanan,42.41
+415,4154,Joji Thomas,57.72
+416,4156,Arshaad Bathery,57.62
+417,4161,Shibu Balan,71.38
+418,4163,Ajith C Lokesh,78.3
+419,4181,Baby Thomas,53.6
+420,4184,Sibi Padiyara,53.54
+421,4189,Jinu G Daniel,55.76
+422,4206,Alagappan,64.74
+423,4241,Bhupathi,15
+424,4281,Vijeesh Vasudev,34.4
+425,4305,Sidharth Shiva,66.74
+426,4310,Vinu Narayanan,44.48
+427,4339,Krish Kaimal,64.17
+428,4366,Mahesh Narayanan,79.28
+429,4445,Rajeev Ravi,69.06
+430,4528,Sujith Nair,32.8
+431,4533,Murali Gopy,75.29
+432,4534,Suresh,29.6
+433,4536,Mahesh Gopal,68.8
+434,4645,Alex Kadavil,70.95
+435,4739,Anoop Menon,64.07
+436,4759,Ajay Devaloka,46.98
+437,4817,B Harikumar,49.6
+438,4836,Babu Pallassery,51.29
+439,4918,G Prem,41
+440,4948,Bala,65.57
+441,4986,Bharathan Njarakkal,50.83
+442,5047,CR Ajaya Kumar,17.2
+443,5049,Harilal Gandhi,24
+444,5217,GS Pradeep,43
+445,5218,Manoj Nair,26.73
+446,5235,Geethu Mohandas,76.54
+447,5330,Ajmal,23.5
+448,5341,J Pallassery,78.94
+449,5352,Jagadish,39
+450,5358,Dhanoj Naik,36.45
+451,5360,Jain George,50.25
+452,5380,Jayakumar,32.9
+453,5393,Jayaprakash Kuloor,59.47
+454,5424,John,44.16
+455,5446,Joy Mathew,68.64
+456,5502,Saseendran Vadakara,27
+457,5660,Kollam Ajith,43.11
+458,5697,Sudhir Kumar,66.74
+459,5698,Sunil K Anand,71.25
+460,5699,Sujith Sajith,15.81
+461,5794,Balamuralikrishna,83.7
+462,5824,Manoj Alunkal,49.2
+463,5828,Madambu Kunjukuttan,60.62
+464,5879,Dhanwanthari,66.5
+465,5912,Manu Jose,49.92
+466,6001,Padmendra Prasad,52.48
+467,6064,Siva Chandran,49.6
+468,6142,Rishi Sivakumar,57.51
+469,6171,Ramesh Kanna,60
+470,6262,P Balachandran,70.32
+471,6284,MS Muralidharan,54
+472,6415,R Unni,72.09
+473,6483,Omar Lulu,58.94
+474,6499,KS Ravikumar,60
+475,6555,TP Devarajan,54.5
+476,6566,Ramesh Pisharadi,74.82
+477,6685,Gopakumar Narayana Pillai,32.8
+478,6697,Sabitha Jayaraj,92.15
+479,6712,Saiju Kurup,17.16
+480,6725,Saju Kodiyan,32.2
+481,6735,Salim Kumar,56.18
+482,6767,Ramesh Madhavan,80.99
+483,6781,Thrissur Viswam,9
+484,6801,Sarath Haridasan,66.4
+485,6844,Dr. Santhosh Souparnika,58.45
+486,6886,Subhash Thiruvilwamala,36.8
+487,6939,Vinod Guruvayoor,55.11
+488,6965,Siddique,72.67
+489,6967,Sidharth Bharathan,62.25
+490,6983,R Thyagarajan,70.3
+491,7071,Preethi Panikkar,32.8
+492,7116,Sujay M Mathew,34.2
+493,7165,Suresh Babu,78.3
+494,7169,Suresh Nair,51.2
+495,7195,Syam Seethal,76.56
+496,7199,T Damodaran,74.71
+497,7297,Guiness Pakru (Ajayakumar),44.65
+498,7410,Anwar Sadhique,76.79
+499,7454,Vineeth Kumar,66.42
+500,7500,AK Santhosh,69.58
+501,7510,Jenuse Mohamed,76.81
+502,7513,Ajith Prathap,80.1
+503,7515,Alankode Leelakrishnan,84.6
+504,7521,Ananthu,62.25
+505,7522,Anil Raj,71.47
+506,7523,Anish Panicker,41.28
+507,7526,Anzar Kalabhavan,14.25
+508,7529,Aryadan Shaukath,61.63
+509,7532,Ashok -Sasi,90
+510,7537,B Jayachandran,70.92
+511,7548,Benny P Nayarambalam,72.12
+512,7552,Biju Devassey,54.15
+513,7553,Biju Vattapara,59.32
+514,7555,Bobby-Sanjay,73.03
+515,7556,C Balachandran,50.73
+516,7558,C Sasidharan Pillai,81.7
+517,7559,CV Balakrishnan,55.19
+518,7572,Chandrakanth Kulkkarni,91.2
+519,7573,O Chandu Menon,51.6
+520,7578,Cheriyan Kalpakavadi,61.37
+521,7579,Chinni Krishna,48.78
+522,7589,Dileesh Nair,72.36
+523,7591,Dr. Iqbal Kuttippuram,79.39
+524,7594,Dr Rajendrababu,50.38
+525,7599,Santhosh Echikkanam,64.72
+526,7614,GA Lal,88.36
+527,7615,GB Vijay,86.4
+528,7616,GC Karakkal,24.7
+529,7618,GS Anand,60
+530,7622,Ganguraj,77.76
+531,7630,Gopu,30
+532,7632,Govardhan,32.4
+533,7633,Govind Padman,84.13
+534,7637,Hamsa Kayanikkara,18.8
+535,7638,Haridas Karivellur,59.19
+536,7639,Haripad Harilal,44.52
+537,7641,Indu Menon,33.95
+538,7645,James Albert,65.12
+539,7647,Jayan Poojappura,28.2
+540,7650,Jaydeep Sahni,80.1
+541,7656,Joemon,67
+542,7664,Joshua Newtonn,70.4
+543,7674,K Gireesh Kumar,61.49
+544,7676,K Murali Menon,40.5
+545,7688,KK Sudhakaran,38.95
+546,7692,KP Ramanunni,55.5
+547,7694,KS Noushad,46.37
+548,7698,KU Iqbal,64.5
+549,7699,KU Mani,24
+550,7704,Kakkanadan,35.2
+551,7709,Kaloor Dominic,54.29
+552,7719,Kiran Prabhakar,69.66
+553,7725,Krishna Poojappura,61.62
+554,7733,M Hajamoinu,32.1
+555,7738,M Kamaruddin,48.72
+556,7740,M Mukundan,32.4
+557,7744,M Sindhuraj,70.12
+558,7745,M Sukumaran,74.26
+559,7757,MN Sreedharan,28.86
+560,7768,Madhavikkutty (Kamala Surayya),57.66
+561,7771,Mahesh Mithra,56.86
+562,7778,Mani Shornur,70.94
+563,7799,Yousuf Mohammed,24.6
+564,7813,N Prabhakaran,61.18
+565,7816,NP Muhammed,66.75
+566,7819,Najeem Koya,54.16
+567,7824,Nizam Rauthar,40.68
+568,7827,OV Vijayan,67.68
+569,7843,PF Mathews,51.91
+570,7854,PS Kumar,35.29
+571,7856,PS Rafeeq,66.27
+572,7862,Pallari Mathikachalam,49.6
+573,7863,Pamman,57.27
+574,7865,Pappaji,15
+575,7869,Perumpadavam Sreedharan,34.2
+576,7877,Punathil Kunjabdulla,32.8
+577,7882,R P G,84.6
+578,7884,Sakkir Madathil,44.72
+579,7890,Raghunath Paleri,71.09
+580,7891,Rahim Poovattuparambu,18.8
+581,7893,Rajan Kiriyath,57.09
+582,7895,Rajesh Jayaraman,56.85
+583,7896,Rajesh Varma,52.53
+584,7897,Reji Nair,70.1
+585,7898,Rajiv,33
+586,7904,Rassaque Thyakavu,81
+587,7905,Ravi Sekhar,78.96
+588,7910,Renjith Rajaputhra,88
+589,7914,S Bhasurachandran,53.2
+590,7917,S Suresh Babu,48.09
+591,7921,SK Pottakkad,41
+592,7922,SL Puram Sadanandan,32.9
+593,7923,SN Swamy,70.65
+594,7924,Sab John,83.66
+595,7928,Sadanan(Sadanandan Perumbavoor),32.4
+596,7932,Sajan Cholayil,27
+597,7934,Saji Damodar,32.25
+598,7936,Salin Mankuzy,78.37
+599,7937,Samjad Narayanan,76.8
+600,7942,Sarthchandra Chatterji,90
+601,7950,Satheesh Babu Mancheri,34.5
+602,7951,Santhosh Khan,26.4
+603,7954,Sathrughnan,40.5
+604,7957,Satish Paul,92
+605,7958,Sethu,52.29
+606,7961,Shaji T Nedumkallel,83.66
+607,7962,Shani Khadhar,65.7
+608,7963,Shankar Ramakrishnan,58.94
+609,7967,Shyam Pushkaran,75.54
+610,7968,Shylesh Divakaran,60.22
+611,7969,Sibi K Thomas,82.25
+612,7972,Satheesh Kumar,47.68
+613,7973,Sidhique Thamarassery,25.8
+614,7974,PM Sindhuraj,83.6
+615,7976,Soman Kairikkadu,47.7
+616,7977,Soorya Krishna Moorthy,72
+617,7981,Sreejith IPS,71
+618,7996,Sudheesh -John,71.51
+619,8001,Sunil Gangopadhyaay,77.84
+620,8002,Sunil Parameswaran,82.59
+621,8003,Sunny Joseph Mala,67.47
+622,8006,Suresh Kochammini,28.38
+623,8007,Suresh Pathisseri,49.63
+624,8008,Suresh Pothuval,74.48
+625,8012,Susmesh Chandroth,59.1
+626,8014,Swamiji,49.6
+627,8021,T P Rajeevan,61.6
+628,8024,TM Siddique,9
+629,8030,Thakazhi Sivasankarapillai,73.15
+630,8048,Titus Manju,84.6
+631,8049,Tommy John,37.6
+632,8063,VC Ashok,64.66
+633,8067,VP Bhanumathy,50.76
+634,8072,Vadakkan Pattu,28.8
+635,8074,Vaikkom Muhammad Basheer,65.6
+636,8087,Vinod K Payyannur,30
+637,8092,Vyasan Edavanakkadu,67.65
+638,8094,Zacharia,43.2
+639,8406,K Padma Kumar,24
+640,8439,Ambadi Haneefa,35.89
+641,8491,Santhosh Pandit,26.83
+642,8600,YV Rajesh,65.54
+643,8617,Chemban Vinod Jose,79.12
+644,8669,Biju K Arookkutty,32.68
+645,8674,Sam Thomas,57.6
+646,8716,Manu Krishna,43.5
+647,8720,PN Vijayakumar,46.8
+648,8721,PR Ajith Kumar,33.2
+649,8722,Sathyan Kolangad,18.26
+650,8784,Anil Mukhathala,53.11
+651,8791,Bipin Chandran,70.64
+652,8794,CR Chandran,21.27
+653,8796,EV Sreedharan,59.85
+654,8815,P Manoj,37.5
+655,8823,Satheesh Muthukulam,59.73
+656,8824,Rajan Kizhakkanela,20.25
+657,8830,B Ajith Kumar,61.92
+658,8848,Don Max,65.61
+659,8850,Henrik Ibsen,59.63
+660,8890,Krishna Moorthi,76.56
+661,8993,Vinod Sukumaran,49.2
+662,8999,Kumarakam Baburaj,49.6
+663,9022,Rakesh Mantodi,77.47
+664,9029,Santhosh,34.2
+665,9045,Arun Ghosh,60.8
+666,9050,TKR Nair,24.96
+667,9058,Abrid Shine,71.01
+668,9063,Hari Amaravila,30
+669,9069,Neeraj Madhav,77.4
+670,9073,Irshad,23.4
+671,9077,Akhil Paul,77.3
+672,9078,Krishnajith S Vijayan,38.4
+673,9080,Radhakrishna KR,39
+674,9097,Aneesh Anwar,67.86
+675,9098,Anil Karakulam,60.2
+676,9101,BV Nandini Reddy,30
+677,9104,Dr Bijulal,53.95
+678,9105,EVM Ali,17.2
+679,9109,Jayan Sivapuram,23.4
+680,9110,Jnaanasheelan,58.1
+681,9114,Manoj Vinod,35.69
+682,9118,Sajeevan Anthikkaad,73.04
+683,9121,Siddique Chendamangaloor,43
+684,9123,Sugeeth,77.19
+685,9124,Sury,39
+686,9126,TS Jaspal,39.75
+687,9131,Premlal,45.93
+688,9261,Pradeep Kumar Kavumthara,70.4
+689,9272,Manoj Palodan,59.94
+690,9328,Vini Viswalal,74.24
+691,9345,Bejoy KV,36.9
+692,9373,Shajiyem,42.9
+693,9413,Reji Prabhakar,17.82
+694,9470,Manikandan Pattambi,50.7
+695,9502,AG Vinod,64.5
+696,9519,Sudheer Ambalappaadu,39
+697,9522,Sreevarma Paravenath,9.36
+698,9545,A Qube,60
+699,9547,Sinoj Nedungolam,39.46
+700,9549,Francis T Mavelikara,31.5
+701,9550,Dr Rahim Kadavath,43.5
+702,9551,Abhilash Kumar,61.28
+703,9553,Deedi Damodaran,65.62
+704,9554,Dileep Panicker,55.61
+705,9555,Jinu V Abraham,62.08
+706,9556,KV Anil,31.36
+707,9557,GS Anil,66.28
+708,9558,Rob Tobin,53.25
+709,9561,Ansar Sathyan,29.88
+710,9562,Bakrudeen,59.25
+711,9563,Manu Prasad,77.19
+712,9564,Biju K Joseph,34.86
+713,9569,Ratheesh Sukumaran,43.77
+714,9570,Pramod Vaikkom,56.44
+715,9571,Nishad K Koya,66.8
+716,9618,Dr Sudhakaran Nair,45.11
+717,9628,Suresh Krishnan,13.1
+718,9637,Satheesh Narayanan,52.29
+719,9675,Anil V Nagendran,72.8
+720,9681,Shyam,62.25
+721,9700,CP Udayabhanu,74.7
+722,9718,Sethu,58.45
+723,9719,Sachi,72.61
+724,9772,P Ananthapadmanabhan,68.96
+725,9781,Abhaya Simha,67.23
+726,9797,Rajesh Raghavan,61.63
+727,9834,V Vijayakumar,58.1
+728,9836,Syam-Praveen,27.3
+729,9837,Jiju Ashokan,65.34
+730,9855,Shanavas K Bavakutty,71.28
+731,9859,Abhiram Suresh Unnithan,56.94
+732,9878,Mahinkar Kechery,61.06
+733,9890,Manoj-Ranjith,25.8
+734,9894,Shyam Menon,26.52
+735,9934,B Jayamohan,58.89
+736,9940,Rajesh Nair,59.68
+737,9956,SR Raveendran,12.75
+738,9968,Madhuri Madhu,62.25
+739,9972,AR Murukadas,88.35
+740,9993,S Kishor,37.35
+741,10008,B Anas,18.26
+742,10009,Mani Menon,18.26
+743,10015,Rajesh K Narayanan,46.35
+744,10022,Santhosh,15
+745,10027,Raveendran,71.34
+746,10029,Asha Sarath,80.04
+747,10035,Jayakanth,74.7
+748,10043,Kalpatta Narayanan,71.38
+749,10044,K Gopinathan,71.38
+750,10108,Suresh Govind,57.62
+751,10122,J Sujith,16.6
+752,10127,Gireesh,49.14
+753,10146,Dhyan Sreenivasan,67.08
+754,10171,Sumesh - Amal,63.08
+755,10194,Jalal Magnus,28.86
+756,10223,Roopesh Peethambaran,69.75
+757,10249,Manoj Payyannoor,48.14
+758,10272,Sunil Ibrahim,65.16
+759,10273,MR Vibin,67.92
+760,10277,Prasanth Murali,42.9
+761,10313,U Harish,65.57
+762,10328,Shalini Usha Nair,53.82
+763,10342,Manoj Kana,45.05
+764,10387,Anand Sankar,54.18
+765,10403,Hareesh Unni,24.96
+766,10429,Dhinil Babu,36.9
+767,10438,Vinu Abraham,58.38
+768,10469,Shine Kuryan,44
+769,10478,Venu Pradeep,33.2
+770,10483,Ajayan Venugopalan,58.35
+771,10523,Shiju Nambyathu,69.45
+772,10530,AC Vijeesh,46.2
+773,10541,KS Padmakumar,13.3
+774,10560,Shaji Francis,54.6
+775,10562,Prasad Raman,60.06
+776,10563,VH Dirar,60.06
+777,10576,Balaji Sakthivel,63.18
+778,10610,P Suku Menon,9
+779,10615,Arunlal Ramachandran,64.65
+780,10616,Farook Abdul Rahiman,42.9
+781,10692,Jayaraj Century,59.16
+782,10697,Muhammed Musthafa,86.4
+783,10704,MS Sunil kumar,46.8
+784,10709,Alphonse Putharen,75.2
+785,10712,Mohsin Kassim,73.32
+786,10714,Shyam Mohan,32
+787,10740,Manoj Ramsingh,53.09
+788,10756,Noufal Blathoor,63.18
+789,10763,Venu,32.64
+790,10781,P Sivaram,17.16
+791,10793,Sennan Pallassery,35.2
+792,10803,PG Anilkumar,37
+793,10846,AG Sukumaran,9.36
+794,10848,Nazaruddeen Shah,63.18
+795,10862,Anwar Abdulla,48.95
+796,10872,Santhosh Thomas,28
+797,10889,Jogee,34.4
+798,10905,Subodh Cherthala,20.14
+799,10930,Salim Kechery,17.6
+800,10937,Valsalan Vathussery,63.2
+801,10938,Arun Shekhar,72.98
+802,10940,Rajesh K Abraham,33.54
+803,10948,KV VIjayan,39
+804,10951,Dr K Ambadi,63.11
+805,10958,Jean Paul Lal (Lal Jr.),56.07
+806,10989,Naveen Bhaskar,74.52
+807,10990,Sooraj Neeraj,66.3
+808,11016,Suneesh Neendoor,48.75
+809,11031,Danil David,34.02
+810,11033,Abhilash N Chandran,58.48
+811,11039,3 G,64.74
+812,11051,MR Anoopraj,51.25
+813,11074,Shambhu Purushothaman,56.07
+814,11128,Maneesh Kurup,16.4
+815,11148,Murali Krishna,46.5
+816,11160,VS Subhash,21.84
+817,11164,Sajid Yahiya,63.51
+818,11175,Ajith Nambyar,16.2
+819,11176,Felix Joseph,42.9
+820,11180,Jis Joy,78.62
+821,11181,Suresh Nair,55.76
+822,11187,Francis Thanikal,38.4
+823,11203,Pramod Payyanur,55.04
+824,11216,Benny Asamsa,39.08
+825,11220,Jibin Edavanakkadu,48.08
+826,11246,MB Padmakumar,68.8
+827,11252,Riyas,58.97
+828,11262,Anil Kumar K G,53.6
+829,11286,Sasankan,71.38
+830,11370,Sudip Kumar,50.02
+831,11389,Mushin Parari,75.25
+832,11414,Thomas Benjamin,48
+833,11416,Jean Markose,63.11
+834,11436,Chandra Mahesh,49.2
+835,11438,Rohith VS,69.64
+836,11439,Sameer Abdul,69.64
+837,11456,Pradeepan Mullanezhi,57.4
+838,11475,KP Parthasarathy,30
+839,11488,Sumod Gopu,34.44
+840,11525,Shalil Kallur,22.76
+841,11534,Payipadu Raju,36.68
+842,11568,Anish Urumbil,32.8
+843,11572,Sreekumar Sreyas,73.87
+844,11593,Jayagopal,54.68
+845,11640,Madhusoodanan,62.4
+846,11686,Ajith Poojappura,47.64
+847,11696,Murali Nellanadu,17.6
+848,11727,Vinod Ranganath,88.36
+849,11738,Gopi Manassery,48.16
+850,11769,Joshy Mangalathu,77.9
+851,11777,Anoop Daiwa,48.6
+852,11795,Ganesh Raj,76.95
+853,11798,Julaina Ashraf,68.04
+854,11826,Jayan K Saj,34.02
+855,11827,Prasanth Azhimala,34.02
+856,11833,Sajeev Pazhoor,68.57
+857,11842,Haneef Adeni,74.83
+858,11843,Anuranjan Premji,59.34
+859,11847,Manu,64.8
+860,11852,Senna Hegde,55.89
+861,11883,Majeed Maranchery,50.63
+862,11885,Siju Elamkadu,50.63
+863,11894,Haris M Rahman,13.94
+864,11896,Elias Kathavan,41
+865,11903,Jyothish T Kasi,65.36
+866,11908,Arun Viswam,74.52
+867,11914,Abhijith Ashokan,74.52
+868,11958,Girish PC Palam,46.98
+869,11963,Sahir Ali,67.23
+870,11975,Deepu S Nair,71.28
+871,11984,Jay K,75.68
+872,12009,Antony Jibin,75.68
+873,12011,Domin D Silva,75.68
+874,12015,Dr Binu Purushothaman,47.3
+875,12029,Vinish Palayad,42.93
+876,12037,Ajay Vijay,91
+877,12049,RJ Shaan,76.54
+878,12062,Pradeep M Nair,76.54
+879,12074,Sherry,21.5
+880,12076,TN Prakash,21.5
+881,12108,Prajesh Sen,80.04
+882,12130,Gaffoor Y Elliyas,72.24
+883,12137,Jayesh Mynagapalli,55.8
+884,12187,MG Sajeev,39.69
+885,12280,Umesh Omanakkuttan,50.74
+886,12291,Tara Ramanujan,55.9
+887,12298,Aneesh Hameed,77.4
+888,12321,Suresh Thiruvalla,56.76
+889,12327,Shibin Francis,72.59
+890,12345,Arun Gopy,58.48
+891,12354,Vishakh Punna,48.16
+892,12363,Vyasan Sajeev,56.76
+893,12367,MR Raghava Warrior,51.6
+894,12389,Arun K David,57.6
+895,12390,Harikrishnan,60.66
+896,12401,Prashanth C,58.48
+897,12402,E Santhosh Kumar,58.48
+898,12409,CH Mohammed,69.6
+899,12410,Justin Pathalil,40.56
+900,12440,Althaf Salim,74.82
+901,12479,Subhash Chandran,45.39
+902,12485,TS Arun,60.2
+903,12506,Sumeesh Ramakrishnan,17.4
+904,12528,Sabu Varghese,36.12
+905,12530,Suru G Nair,36.12
+906,12533,Sangeeth Jain,65.61
+907,12541,Binu Ulahannan,67.08
+908,12551,Vincent Vadakkan,79.2
+909,12553,John Joseph,58.48
+910,12554,Anil Kunjappan,58.48
+911,12569,KP Vijayakumar,51.6
+912,12571,Arun Sagara ,68.8
+913,12577,PS Suresh Babu,64.5
+914,12583,Renji Lal Damodaran,56.76
+915,12592,Philip Sigi,61.92
+916,12598,VR Balagopal,72.24
+917,12601,Bejoy Nambiar,75.68
+918,12604,Ratheesh Ravi ,67.94
+919,12615,Ravi Udyawar,75.68
+920,12630,Sharis Mohammed,75.72
+921,12644,Udhayabhanu Maheswaran,69.6
+922,12672,Noushad,52.46
+923,12682,Rafi Mannar,11.18
+924,12694,R Premnath,23.4
+925,12712,Shanavas Naranippuzha,65.6
+926,12737,Vijeesh Mani,49.92
+927,12740,Sreenivasa Moorthy,51.6
+928,12773,Vineesh Palayadu,49.02
+929,12806,Abraham Mathew,62.78
+930,12821,Selvan Thamalam,8.6
+931,12832,Arun Vaiga,70.52
+932,12839,Raffi Mannar,11.18
+933,12876,Jeevan Job Thomas,77.43
+934,12919,Santhosh Peringeth,52.2
+935,12927,Dr Siju Jawahar,69.6
+936,13000,Aashiq Akber Ali,69.6
+937,13010,G Ashok,79.17
+938,13013,Fawas Mohammed,56.76
+939,13017,Shaji MRB,27.75
+940,13019,MG Sasidharan,40.42
+941,13023,V Prabhakar,40.42
+942,13026,Naveen John,60.03
+943,13027,Nirmal Sahadev,66.65
+944,13048,Shibu Raj K,60.9
+945,13086,Sarang Jayaprakash,57.45
+946,13104,Manoj Varghese Parecattil,61.77
+947,13107,Vineesh Millenium,62.64
+948,13111,Sajeev Vyasa ,17.4
+949,13112,SK Vilwan,21.17
+950,13116,Zakariya,83.52
+951,13145,Aju K Narayanan,81
+952,13150,Unnikrishnan Avala,53.94
+953,13153,Saju Thomas,55.68
+954,13164,Rahul Riji Nair,60.03
+955,13179,VC Abhilash,82.65
+956,13191,Ashraf Hamsa,82.56
+957,13206,Mridul Nair,80.04
+958,13248,Haneef Kechery,63.64
+959,13254,Jubith Namradath,57.42
+960,13329,Sunil Puveily,59.16
+961,13356,Maneesh Joseph,48
+962,13386,Sudeep E S,53.94
+963,13396,Suresh Sankar ,74.82
+964,13407,Jayaraj Mithra,66.99
+965,13409,Prasobh Vijayan,69.6
+966,13467,Don C. Palathara,59.86
+967,13477,RK Dreamwest,19.14
+968,13478,Winu Ramakrishnan,53.94
+969,13487,C S Vinayan,26.1
+970,13490,G Vinunath,26.1
+971,13497,K Manojkumar,52.48
+972,13507,Dr. Ravi Parnasala,56.76
+973,13526,Prof. Satheesh Paul ,53.94
+974,13572,MC Jithin,81.78
+975,13576,Vinod Kumar Kuttamath,62.64
+976,13606,Maju,64.38
+977,13610,Aadi,43
+978,13621,Syam Lenin,60.03
+979,13643,Emmanuvel N K,26.1
+980,13675,Raju Joseph,48
+981,13684,Makinker Kecheri,63.51
+982,13697,Sudheep T George,67.94
+983,13705,Riyas Marath,63.51
+984,13723,Tony Madathil,43.5
+985,13754,Ajithan,77.4
+986,13755,Vinod Viswan,77.4
+987,13758,M Sajas,63.51
+988,13789,Roopesh Bhaskar,26.1
+989,13807,Selvaraj Kulakandathil,63.51
+990,13820,Hari P Nair,74.82
+991,13827,Jefin Joy,71.34
+992,13828,Sujan Aaromal,69.66
+993,13829,Thanseer,53.07
+994,13838,Duglus Alfred,77.43
+995,13849,Shahi Kabir,70.47
+996,13882,Sathish Tharian,7.8
+997,13911,Mani Madhav,26.1
+998,13933,Rishi Mamankara,64.38
+999,13943,Arun AR,74.82
+1000,13945,RK Ajaykumar,58.48
+1001,13958,Mithran Noufaldheen,44.5
+1002,13984,Padikyal Bhaasi,49.88
+1003,13992,Binju Joseph,79.17
+1004,13998,Pramod Kooveri,71.34
+1005,14033,KC Ajith Namboothiri Guruvayoor,55.68
+1006,14038,Tomy Kiriyanthan,72.21
+1007,14043,Vichu Bala,59.34
+1008,14053,P Parappuram,43.5
+1009,14075,M Sukumarji,25.11
+1010,14150,Jagadeep Kumar,34.4
+1011,14179,Dr Aju K Narayanan,52.2
+1012,14192,Prem Shankar,51.6
+1013,14199,Sudhi,55.04
+1014,14207,Mohanan Nellikkat,30.45
+1015,14211,PK Sreekumar,69.6
+1016,14219,Radheesh Nair,51.6
+1017,14236,AMR Ramesh,70.98
+1018,14274,Suhas - Sharfu,80.91
+1019,14276,Ganesh G Nair,56.55
+1020,14277, Ajith N Nair,56.55
+1021,14312,Sajin Cherukayil,68.8
+1022,14322,Sagar Sathyan,42.63
+1023,14342,Sagar Hari,64.5
+1024,14343,Dinu Thomas Eelan,81.78
+1025,14345,Sudheesh Varanadu,63.51
+1026,14346,Vaisakhan,62.1
+1027,14354,Jose Sebastine,81.78
+1028,14365,Shajeer Jaleel,64.38
+1029,14368,R Jayakumar,73.1
+1030,14371,Sanilesh Sivan,78.26
+1031,14380,Dileep Kuryan,82.65
+1032,14404,Francis Norona,79.12
+1033,14417,Chithran Vellanchira,62.64
+1034,14419,Karthik Subhash,62.64
+1035,14428,SK Sudheesh,55.68
+1036,14433,Prasanth Vijay,61.06
+1037,14440,Nikhil Vahid,34.4
+1038,14547,Rahul Ramachandran,30.1
+1039,14575,Praveen Prabharam,77.4
+1040,14585,Jenith Kachappilly,63
+1041,14590,Sivaprasad CG,78.26
+1042,14592,Vishnu Raj,78.26
+1043,14716,Santhosh Kallattu,43.5
+1044,14757,K Satheesh Babu,69.6
+1045,14758,Thabu Ghosh,69.6
+1046,14772,Anil Chandrasekhar,72.24
+1047,14778,Suresh Babu Sreestha,70.47
+1048,14815,Ahammed Kabeer,63.64
+1049,14827,Haseena Suneer,52.46
+1050,14832,Nithin Narayanan,45.58
+1051,14841,Vineesh Aradya,67.94
+1052,14845,Jinoy Janardhanan,45.58
+1053,14846,Jibit George,45.58
+1054,14881,Surendran Kallur,82.56
+1055,14893,Prasanth Neel ,82.65
+1056,14911,Sajas Rahman,56.58
+1057,14948,Ratheesh Balakrishnan Poduval,83.42
+1058,14968,Santhakumar,69.3
+1059,14978,Faizal Koonath,25.8
+1060,14998,Gokul Koottappana ,57.42
+1061,15017,K Sreevarma,63
+1062,15029,Jahangir Ummar,12.9
+1063,15039,Rafeeq Mangalasseri,58.48
+1064,15045,Arun Bose,76.54
+1065,15070,Manu Gopal,53.32
+1066,15075,Ashraf Pilathara,17.2
+1067,15147,Rajesh - Reshma,53.32
+1068,15152,Mahi V Raghav,70.52
+1069,15223,Sudip,61.92
+1070,15244,Vivek,58.48
+1071,15293,Dileep Ponnan,70.52
+1072,15328,Anand Menon,82.8
+1073,15360,Manaf,66.22
+1074,15376,Vijaiprakash,39.56
+1075,15396,KR Sivakumar,18.06
+1076,15400,Bharat Kamma,79.98
+1077,15442,Aji Peter Thankam,81.7
+1078,15467,Girish AD,82.56
+1079,15474,Anaz Nazeer Khan,25.8
+1080,15488,SS Jishnu Dev,70.52
+1081,15491,C Sivakumar,50.22
+1082,15497,Krishnan C,59.34
+1083,15541,Mathukutty Xavier,81.7
+1084,15572,JK Bharavi,74.82
+1085,15576,Vijayalakshmi Singh,73.96
+1086,15607,Suvarnan Shooranad,54
+1087,15643,Rajeev Kouthukam,19.78
+1088,15653,Peter Sajan,21.5
+1089,15686,Anurag Kashyap,76.54
+1090,15694,PG Prageesh,70.52
+1091,15707,AKS Nambiar,77.4
+1092,15709,Sathar Nabee,77.4
+1093,15734,Ramesh Pullappally,62.1
+1094,15767,Gopi Nainar,79.12
+1095,15785,Priyanka Ravindran,66.22
+1096,15789,Unni R,71.38
+1097,15792,Jemin Cyriac,78.26
+1098,15814,Razi Muhammed,64.78
+1099,15841,Anoop Sathyan,82.8
+1100,16331,Raj B Shetty,82.56
+1101,16528,Jaya Jose Raj,49.5
+1102,16605,Cathy Rabin,83.6
