@@ -1,7 +1,7 @@
 from django.db import models
 
 # Create your models here.
-
+#Creating New model
 class Director(models.Model):
     code = models.IntegerField()
     name = models.CharField(max_length=100)
@@ -56,7 +56,7 @@ class Actor(models.Model):
 
     def __str__(self):
         return '{} {} {} {}'.format(self.id,self.code,self.name,self.rating)
-
+#Added Song
 class Song(models.Model):
     code = models.IntegerField()
     name = models.CharField(max_length=100)
