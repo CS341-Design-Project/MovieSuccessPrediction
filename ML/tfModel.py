@@ -110,6 +110,7 @@ plt.xlim(lims)
 plt.ylim(lims)
 _ = plt.plot(lims, lims)
 
+# Error plotting of the model
 error = test_predictions - test_labels
 plt.hist(error, bins=25)
 plt.xlabel('Prediction Error [rating]')
