@@ -57,6 +57,8 @@ with np.printoptions(precision=2, suppress=True):
   print()
   print('Normalized:', normalizer(first).numpy())
 
+
+# Creating and compiling of the ANN model
 def build_and_compile_model(norm):
   model = keras.Sequential([
       norm,
