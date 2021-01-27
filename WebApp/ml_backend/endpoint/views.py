@@ -22,7 +22,7 @@ def home(request) :
 def result(request) :
     
     director = Director.objects.get(name=request.GET['director']).rating
-
+#Changing Producer
     producer = Producer.objects.get(name=request.GET['producer']).rating
     
     narrative1 = Narrative.objects.get(name=request.GET['narrative1']).rating
